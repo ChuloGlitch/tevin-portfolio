@@ -24,10 +24,15 @@ This portfolio website serves as a central hub to explore my work and learn more
 
 tevin-portfolio/
 ├── pic/
+
 │   └── tevin.jpg
+
 ├── index.html
+
 ├── script.js
+
 ├── styles.css
+
 └── README.md
 
 
